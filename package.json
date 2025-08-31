@@ -26,5 +26,5 @@
 },
   "overrides": {
     "@rollup/rollup-android-arm64": "npm:@rollup/wasm-node"
-  }
+  }
 }
